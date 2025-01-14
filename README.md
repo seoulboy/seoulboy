@@ -26,3 +26,7 @@ Education:
 - Naver BoostCamp iOS Curriculum (Jul. 2020 ~ Jan. 2021)
 - University of California, San Diego (Sep. 2013 ~ Jun. 2017)
  - Bachelor's degree of science in Physiology and Neuroscience 
+
+Language Skills:
+
+- [TEPS](https://en.teps.or.kr/about_teps.html) Score of 966 out of 990 (99.58% percentile)
