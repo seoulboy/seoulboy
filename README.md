@@ -29,4 +29,4 @@ Education:
 
 Language Skills:
 
-- [TEPS](https://en.teps.or.kr/about_teps.html) Scored of 966 out of 990 (level +1 & 99.58 percentile)
+- [TEPS](https://en.teps.or.kr/about_teps.html) score of 966 out of 990 (level +1 & 99.58 percentile)
